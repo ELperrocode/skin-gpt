@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        charcoal: "#8b7369",
+        mocha: "#301e16",
       },
     },
   },
